@@ -1,0 +1,9 @@
+Exercise 5-13: Your ideas
+
+I want to build lots of things. I would like to use AI/ML tools, which are mostly used with Python. I am 
+reading this book to have a solid Python foundation so that I can use those AI/ML tools properly. In the 
+future, I would like to build my own AI/ML tools (maybe I could even implement the low-level stuff too with C/C++).
+For the moment, the first ideas that come to mind are:
+1. Recommendation systems for movies, books, music, etc.
+2. Data analysis and visualization for sports analytics.
+3. Data analysis and visualization for financial data.
